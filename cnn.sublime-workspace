@@ -1,0 +1,1048 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"valida",
+				"validationInputs\tstatement"
+			],
+			[
+				"validation",
+				"validationData"
+			],
+			[
+				"traini",
+				"trainingResults\tstatement"
+			],
+			[
+				"train",
+				"trainingInputs\tstatement"
+			],
+			[
+				"training",
+				"trainingData"
+			],
+			[
+				"load",
+				"loadData\tfunction"
+			],
+			[
+				"si",
+				"sigmod"
+			],
+			[
+				"nab",
+				"nablaW\tstatement"
+			],
+			[
+				"sig",
+				"sigmoidPrime"
+			],
+			[
+				"nabl",
+				"nablaW\tstatement"
+			],
+			[
+				"del",
+				"delta\tstatement"
+			],
+			[
+				"activa",
+				"activations\tstatement"
+			],
+			[
+				"ac",
+				"activation\tstatement"
+			],
+			[
+				"act",
+				"activations\tstatement"
+			],
+			[
+				"mini",
+				"minibatch"
+			],
+			[
+				"min",
+				"miniBatche"
+			],
+			[
+				"mi",
+				"miniBatches\tstatement"
+			],
+			[
+				"w",
+				"weights"
+			],
+			[
+				"ne",
+				"network\tmodule"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"bca",
+				"background-size"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"back",
+				"background"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "network.py",
+			"settings":
+			{
+				"buffer_size": 2662,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "load_data.py",
+			"settings":
+			{
+				"buffer_size": 809,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nAnaconda\n--------\n\n  \n                                                            |\n                _` |  __ \\    _` |   __|   _ \\   __ \\    _` |   _` |\n               (   |  |   |  (   |  (     (   |  |   |  (   |  (   |\n              \\__,_| _|  _| \\__,_| \\___| \\___/  _|  _| \\__,_| \\__,_|\n                                       The Sublime Text 3 Python IDE\n  \n  \n  Anaconda v2.1.18\n  ================\n  \n  Welcome to new anaconda v2.1.18, what do you can find in this minor release?\n  \n  ## Rollbacks\n      - Rollback latest Jedi update as it introduced some performance issues\n\n  \n                                                            |\n                _` |  __ \\    _` |   __|   _ \\   __ \\    _` |   _` |\n               (   |  |   |  (   |  (     (   |  |   |  (   |  (   |\n              \\__,_| _|  _| \\__,_| \\___| \\___/  _|  _| \\__,_| \\__,_|\n                                       The Sublime Text 3 Python IDE\n  \n  \n  Anaconda v2.1.17\n  ================\n  \n  Welcome to new anaconda v2.1.17, what do you can find in this minor release?\n  \n  ## Improvements\n      - Updated PyCodeStyle to v2.3.1\n      - Updated Jedi to 0.10.0 (82d165a7)\n\n  \n                                                            |\n                _` |  __ \\    _` |   __|   _ \\   __ \\    _` |   _` |\n               (   |  |   |  (   |  (     (   |  |   |  (   |  (   |\n              \\__,_| _|  _| \\__,_| \\___| \\___/  _|  _| \\__,_| \\__,_|\n                                       The Sublime Text 3 Python IDE\n  \n  \n  Anaconda v2.1.16\n  ================\n  \n  Welcome to new anaconda v2.1.16, what do you can find in this minor release?\n  \n  ## Fixes\n      - Fixed performance degradation in macOS when long files where being edited #620, #558\n  \n  ## Improvements\n      - Show one message per line on phantoms linting support\n      - Improved integration with Kite plugin\n",
+			"settings":
+			{
+				"buffer_size": 1905,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 78,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cnn.sublime-project",
+			"settings":
+			{
+				"buffer_size": 587,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/antbas/ws/recnum/main.py",
+			"settings":
+			{
+				"buffer_size": 1081,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/antbas/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 27,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 112.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/antbas/ws/cnn"
+	],
+	"file_history":
+	[
+		"/home/antbas/.config/sublime-text-3/Packages/User/Python.sublime-settings",
+		"/home/antbas/workspace/otc-client/src/css/ub/core.scss",
+		"/home/antbas/workspace/otc-client/src/css/ubberl/core.scss",
+		"/home/antbas/workspace/SB-27210/html5-client/src/index-retail-sst.html",
+		"/home/antbas/workspace/html5-client/src/js/components/retail/navigation-overlay/styles/main.scss",
+		"/home/antbas/workspace/html5-client/src/clients/common/css/icons.scss",
+		"/home/antbas/workspace/html5-client/src/js/components/retail/navigation-overlay/templates/NavigationOverlayTemplate.hbs",
+		"/home/antbas/workspace/html5-client/src/clients/common/css/modules/buttons.scss",
+		"/home/antbas/workspace/html5-client/src/clients/32red/32red/css/core.css",
+		"/home/antbas/workspace/html5-client/src/clients/888/888/css/core.css",
+		"/home/antbas/workspace/html5-client/src/clients/888/888dk/css/core@2x.css",
+		"/home/antbas/workspace/html5-client/src/js/components/betslip-receipt/styles/main.scss",
+		"/home/antbas/workspace/html5-client/src/clients/common/icons/navicons/star.svg",
+		"/home/antbas/Downloads/tmp/style.css",
+		"/home/antbas/workspace/html5-client/node_modules/babel-register/lib/browser.js",
+		"/home/antbas/.cache/.fr-zkIOt5/style.css",
+		"/home/antbas/workspace/html5-client/src/clients/common/icons/icons.ttf",
+		"/home/antbas/workspace/html5-client/src/clients/common/css/init.scss",
+		"/home/antbas/workspace/html5-client/src/clients/common/css/modules.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/playcity/common/css/variables-retail.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/common/css/modules/betslip.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/naga/common/css/variables-retail.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/napoleongames/common/css/variables-retail.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/ub/common/css/variables-retail.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/rfranco/common/css/variables-retail.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/napoleongames/common/css/variables.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/common/css/modules/outcome-item.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/common/css/overrides.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/common/css/components/place-bet-button.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/common/css/modules/racing-widgets.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/common/css/modules/bethistory.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/common/css/variables.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/js/common/ui/event-item/styles/main.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/rfranco/common/css/variables.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/common/css/widgets.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/common/css/variables-retail.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/playcity/common/css/variables.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/winga/pafit/css/core@2x.css",
+		"/home/antbas/workspace/SB-28123/html5-client/src/js/components/retail/navigation-overlay/templates/NavigationOverlayTemplate.hbs",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/ub/common/css/overwrite.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/js/components/retail/navigation-overlay/styles/main.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/common/css/readme-icons.txt",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/rollercoaster/common/css/variables-retail.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/rollercoaster/common/css/variables.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/napoleongames/common/css/overwrite.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/naga/common/css/placeholders.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/naga/common/css/variables.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/js/components/retail/styles/main.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/rollercoaster/common/css/core.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/playcity/common/css/core.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/README.md",
+		"/home/antbas/workspace/SB-28123/html5-client/__tests__/utils/FormatUtil.spec.js",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/ub/common/css/core.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/naga/common/css/core.scss",
+		"/home/antbas/workspace/SB-28123/html5-client/src/clients/rfranco/common/css/core.scss",
+		"/home/antbas/workspace/html5-client/src/clients/napoleongames/common/css/overwrite.scss",
+		"/home/antbas/workspace/html5-client/src/js/view/betslip/BetslipView.html",
+		"/home/antbas/workspace/html5-client/src/clients/common/css/components/place-bet-button.scss",
+		"/home/antbas/workspace/html5-client/src/clients/napoleongames/common/css/variables.scss",
+		"/home/antbas/workspace/html5-client/src/clients/common/css/variables.scss",
+		"/home/antbas/workspace/html5-client/src/clients/rfranco/common/css/variables.scss",
+		"/home/antbas/workspace/html5-client/src/clients/rfranco/common/css/overwrite.scss",
+		"/home/antbas/workspace/html5-client/src/js/components/retail/retail-overlay/styles/term-search.scss",
+		"/home/antbas/workspace/html5-client/src/clients/common/css/variables-retail.scss",
+		"/home/antbas/workspace/html5-client/src/js/components/term-search-overlay/styles/main.scss",
+		"/home/antbas/workspace/html5-client/src/js/components/retail/landing-page/templates/LandingPageNavigationTemplate.hbs",
+		"/home/antbas/workspace/html5-client/src/clients/rfranco/common/css/core.scss",
+		"/home/antbas/workspace/html5-client/src/js/components/retail/styles/main.scss",
+		"/home/antbas/workspace/html5-client/src/clients/napoleongames/ngbe/css/core.css",
+		"/home/antbas/workspace/html5-client/src/clients/rfranco/rfes/css/core.css",
+		"/home/antbas/workspace/html5-client/src/clients/napoleongames/ngrl/css/core.css",
+		"/home/antbas/workspace/html5-client/src/clients/napoleongames/common/css/core.scss",
+		"/home/antbas/workspace/html5-client/src/js/components/retail/landing-page/styles/main.scss",
+		"/home/antbas/workspace/html5-client/src/js/components/bethistory-summary-item/styles/main.scss",
+		"/home/antbas/workspace/html5-client/src/js/components/retail/landing-page/templates/LandingPageSkeletonTemplate.hbs",
+		"/home/antbas/workspace/html5-client/src/js/components/playercast/styles/main.scss",
+		"/home/antbas/workspace/html5-client/src/clients/common/css/modules/playercast.scss",
+		"/home/antbas/workspace/html5-client/src/js/components/betslip-header/styles/main.scss",
+		"/home/antbas/workspace/html5-client/src/clients/common/css/modules/betslip.scss",
+		"/home/antbas/workspace/html5-client/src/js/components/betslip-header/templates/BetslipHeader.hbs",
+		"/home/antbas/workspace/html5-client/src/js/components/betslip-summary/templates/BetslipSummary.hbs",
+		"/home/antbas/workspace/html5-client/src/js/components/bethistory-summary-item/templates/BetHistorySummaryItem.hbs",
+		"/home/antbas/workspace/html5-client/src/clients/rfranco/common/css/placeholders.scss",
+		"/home/antbas/workspace/html5-client/src/js/view/betslip/BetslipView.js",
+		"/home/antbas/workspace/html5-client/src/js/components/betslip-overlay/BetslipOverlayView.next.js",
+		"/home/antbas/workspace/html5-client/src/js/components/betslip-overlay/index.next.js",
+		"/home/antbas/workspace/html5-client/src/js/components/bethistory-summary/templates/BetHistorySummaryView.hbs",
+		"/home/antbas/workspace/html5-client/src/js/components/bethistory-summary-item/BetHistorySummaryItemView.next.js",
+		"/home/antbas/workspace/html5-client/src/js/components/bethistory-summary-item/BetHistorySummaryItemViewModel.next.js",
+		"/home/antbas/workspace/html5-client/src/js/components/bethistory-summary/BetHistorySummaryView.next.js",
+		"/home/antbas/workspace/html5-client/src/clients/common/css/fonts.scss",
+		"/home/antbas/workspace/html5-client/src/js/kambi-main.js",
+		"/home/antbas/workspace/html5-client/src/clients/common/icons/icons.svg",
+		"/home/antbas/workspace/html5-client/README.md",
+		"/home/antbas/workspace/html5-client/src/clients/rfranco/rfes/css/core@2x.css",
+		"/home/antbas/workspace/html5-client/build/gulp/utils/css-offerings.coffee",
+		"/home/antbas/workspace/html5-client/build/gulp/tasks/scss.coffee",
+		"/home/antbas/workspace/html5-client/src/clients/rfranco/common/config.conf",
+		"/home/antbas/workspace/html5-client/src/clients/rfranco/rfesplayrl/css/core.css",
+		"/home/antbas/workspace/html5-client/src/js/components/retail/landing-page/LandingPageModel.next.js",
+		"/home/antbas/workspace/html5-client/__tests__/utils/FormatUtil.spec.js",
+		"/home/antbas/workspace/html5-client/src/js/utils/FormatUtil.next.js",
+		"/home/antbas/workspace/html5-client/widgetapi/kambi-widget-api.js",
+		"/home/antbas/ws/recnum/recnum.sublime-project",
+		"/home/antbas/workspace/html5-client/src/js/constants/OddsConstants.next.js",
+		"/home/antbas/workspace/html5-client/src/js/AppConstants.next.js",
+		"/home/antbas/Downloads/index.html (1).erb",
+		"/home/antbas/Downloads/index.html.erb"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/home/antbas/workspace/html5-client/src/clients",
+			"/home/antbas/workspace/html5-client/src",
+			"/home/antbas/workspace/html5-client/src/clients",
+			"/home/antbas/workspace/html5-client/src/css",
+			"/home/antbas/workspace/html5-client/src/js",
+			"/home/antbas/workspace/html5-client/src/clients",
+			"/home/antbas/workspace/html5-client/src/css",
+			"/home/antbas/workspace/html5-client/src/js",
+			"/home/antbas/workspace/html5-client/src/clients",
+			"/home/antbas/workspace/html5-client/src/js",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients/common",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients/common/css",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients/common",
+			"/home/antbas/workspace/SB-28123/html5-client/src/js",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients/common/css",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients/common",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients/common/css",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients",
+			"/home/antbas/workspace/SB-28123/html5-client/src/js",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients/common/css",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients/common",
+			"/home/antbas/workspace/SB-28123/html5-client/src/js",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients/common",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients",
+			"/home/antbas/workspace/SB-28123/html5-client/src/css",
+			"/home/antbas/workspace/SB-28123/html5-client/src/js",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients",
+			"/home/antbas/workspace/SB-28123/html5-client/src",
+			"/home/antbas/workspace/SB-28123/html5-client",
+			"/home/antbas/workspace/SB-28123/html5-client/src",
+			"/home/antbas/workspace/SB-28123/html5-client/src/js",
+			"/home/antbas/workspace/SB-28123/html5-client/src/js/components/retail",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients/ub/common",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients/common",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients/ub/common",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients/common",
+			"/home/antbas/workspace/SB-28123/html5-client/src/js/components/retail",
+			"/home/antbas/workspace/SB-28123/html5-client/src/js",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients/rollercoaster/common",
+			"/home/antbas/workspace/SB-28123/html5-client/src/js",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients/common",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients/naga/common/css",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients",
+			"/home/antbas/workspace/SB-28123/html5-client/src/js",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients/common",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients",
+			"/home/antbas/workspace/SB-28123/html5-client/src/css",
+			"/home/antbas/workspace/SB-28123/html5-client/src/js",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients",
+			"/home/antbas/workspace/SB-28123/html5-client/src/js",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients",
+			"/home/antbas/workspace/SB-28123/html5-client/src/js",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients/common/css",
+			"/home/antbas/workspace/SB-28123/html5-client/src/js",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients",
+			"/home/antbas/workspace/SB-28123/html5-client/src",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients/common",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients/napoleongames/common/css",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients",
+			"/home/antbas/workspace/SB-28123/html5-client/src",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients/common",
+			"/home/antbas/workspace/SB-28123/html5-client/src",
+			"/home/antbas/workspace/SB-28123/html5-client/src/clients/common",
+			"/home/antbas/workspace/SB-28145/html5-client/src",
+			"/home/antbas/workspace/html5-client/src",
+			"/home/antbas/workspace/html5-client/src/clients",
+			"/home/antbas/workspace/html5-client/src/js",
+			"/home/antbas/workspace/html5-client/src",
+			"/home/antbas/workspace/html5-client/src/clients",
+			"/home/antbas/workspace/html5-client/src/js",
+			"/home/antbas/workspace/html5-client/src",
+			"/home/antbas/workspace/html5-client/src/clients",
+			"/home/antbas/workspace/html5-client/src/css",
+			"/home/antbas/workspace/html5-client/src/clients",
+			"/home/antbas/workspace/html5-client/src/js",
+			"/home/antbas/workspace/html5-client/src",
+			"/home/antbas/workspace/html5-client/src/css",
+			"/home/antbas/workspace/html5-client/src",
+			"/home/antbas/workspace/html5-client/src/js/components/retail",
+			"/home/antbas/workspace/html5-client/src",
+			"/home/antbas/workspace/html5-client/src/clients/rfranco",
+			"/home/antbas/workspace/html5-client/src",
+			"/home/antbas/workspace/html5-client/src/js",
+			"/home/antbas/workspace/html5-client/src/clients/napoleongames",
+			"/home/antbas/workspace/html5-client/src/clients",
+			"/home/antbas/workspace/html5-client/src",
+			"/home/antbas/workspace/html5-client/src/js",
+			"/home/antbas/workspace/html5-client/src",
+			"/home/antbas/workspace/html5-client/src/clients/rfranco",
+			"/home/antbas/workspace/html5-client/src",
+			"/home/antbas/workspace/html5-client/src/js",
+			"/home/antbas/workspace/html5-client/src",
+			"/home/antbas/workspace/html5-client/src/js",
+			"/home/antbas/workspace/html5-client/src/clients/common",
+			"/home/antbas/workspace/html5-client/src",
+			"/home/antbas/workspace/html5-client",
+			"/home/antbas/workspace/html5-client/src",
+			"/home/antbas/workspace/html5-client/src/clients",
+			"/home/antbas/workspace/html5-client/src",
+			"/home/antbas/workspace/html5-client/src/clients/common",
+			"/home/antbas/workspace/html5-client/src",
+			"/home/antbas/workspace/html5-client/src/clients/common",
+			"/home/antbas/workspace/html5-client/src",
+			"/home/antbas/workspace/html5-client/src/clients",
+			"/home/antbas/workspace/html5-client/src",
+			"/home/antbas/workspace/html5-client/src/clients",
+			"/home/antbas/workspace/html5-client/src/js",
+			"/home/antbas/workspace/html5-client/src/js/components/retail",
+			"/home/antbas/workspace/html5-client/src/js",
+			"/home/antbas/workspace/html5-client/src/clients/common",
+			"/home/antbas/workspace/html5-client",
+			"/home/antbas/workspace/html5-client/build",
+			"/home/antbas/workspace/html5-client/src/clients",
+			"/home/antbas/workspace/html5-client/src/css",
+			"/home/antbas/workspace/html5-client/src/clients/rfranco/rfesplayrl",
+			"/home/antbas/workspace/html5-client/src/clients/rfranco/common/css",
+			"/home/antbas/workspace/html5-client/src/clients/common/css/init",
+			"/home/antbas/workspace/html5-client/src/clients/rfranco",
+			"/home/antbas/workspace/html5-client/src/clients/common/css",
+			"/home/antbas/workspace/html5-client/src/clients",
+			"/home/antbas/workspace/html5-client/src/clients/common",
+			"/home/antbas/workspace/html5-client/src/clients/common/css",
+			"/home/antbas/workspace/html5-client/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"deltaNablaB",
+			"retail-action-button-height",
+			".KambiBC-retail-action-button",
+			"[",
+			".svg",
+			"svg",
+			"KambiBC-navicon__flag--",
+			"KambiBC-navicon__flag",
+			".svg",
+			"28px",
+			"KambiBC-retail-settings-button",
+			"icon-print",
+			".icon",
+			"KambiBC-retail-settings-button",
+			"KambiBC-retail-landing-page__splash__image",
+			"$bethistory-date-picker-selection-color",
+			"red",
+			"KambiBC-betslip__header-title",
+			"red",
+			"$retail-betslip-outcome-border-bottom",
+			"header-title",
+			"title",
+			"#KambiBC-betslip-type",
+			"$retail-active-tab-border-bottom",
+			".KambiBC-tab-button-content",
+			".KambiBC-placebet-container__place",
+			".KambiBC-outcome-item__close-icon",
+			"left",
+			".KambiBC-outcome-item__close-icon",
+			".KambiBC-outcome-item",
+			"$retail-outcome-list-right-border",
+			"active",
+			"KambiBC-tab-button-content",
+			"KambiBC-tab-button-content'",
+			"KambiBC-tab-button-content",
+			".KambiBC-tab-button-content",
+			".KambiBC-selected",
+			"$betslip-topbar-background-color",
+			".KambiBC-betslip__header",
+			".KambiBC-event-item__link",
+			"\t\t.KambiBC-placebet-container {\n\t\t\t@include gradient-linear-vertical($retail-place-bet-component-button-background-start-color, 0%, $retail-place-bet-component-button-background-end-color, 75%);\n\t\t}\n",
+			"$place-bet-component-button-background-end-color",
+			"background-end",
+			"$place-bet-component-button-background-end-color",
+			"color",
+			"$place-bet-component-button-background-start-color",
+			"#B4975A",
+			"KambiBC-placebet-container",
+			".KambiBC-placebet-container",
+			".KambiBC-outcome-item__info-list",
+			"$retail-overlay-background-color",
+			"riding",
+			"horse",
+			"naviconsport",
+			"special_bets",
+			"KambiBC-navicon__flag--",
+			"-masked--darker",
+			".KambiBC-navicon__sport-icon",
+			".KambiBC-navicon__sport-icon--gallops",
+			".KambiBC-navicon__icon",
+			"--now",
+			"^=",
+			"^=\n^=",
+			"^=",
+			"KambiBC-navigation-overlay__list--big",
+			".KambiBC-navigation-overlay__list--big",
+			"#KambiBC",
+			"KambiBC-navigation-overla",
+			".KambiBC-navigation-overla",
+			".KambiBC-navigation-overlay",
+			"#E51079",
+			"rgba(229, 16, 121, 1.0)",
+			"progress",
+			"$navicon-sporticon-color",
+			".KambiBC-retail-action-button",
+			"#50bd90",
+			"$navicon-sporticon-color",
+			"KambiBC-navicon__sport-icon",
+			"icon-overlay-dark.svg",
+			".KambiBC-navicon-overlay--sport",
+			".KambiBC-navicon-masked--dark",
+			"navi",
+			"$navicon-color",
+			"#007CC0",
+			".KambiBC-navicon__icon",
+			"$navicon-sporticon-color",
+			".KambiBC-navicon__sport-icon",
+			"KambiBC-navicon__sport-icon",
+			".KambiBC-navicon__sport-icon",
+			"$retail-theme-background-color",
+			"linear-gradient",
+			"variables",
+			".KambiBC-event-item__link",
+			"red",
+			"KambiBC-event-item__link",
+			"@",
+			"wrapper",
+			".KambiBC-retail-action-button",
+			"#KambiBC-betslip-body",
+			"$betslip-topbar-border-bottom",
+			"#KambiBC-betslip-type",
+			"$place-bet-component-button-background-start-color",
+			"gradient-linear-vertical",
+			"KambiBC-placebet-container",
+			"#KambiBC-betslip-container",
+			"#KambiBC-betslip-container .KambiBC-placebet-container",
+			"KambiBC-placebet-container",
+			"#ed202d",
+			"222",
+			"#KambiBC-betslip-details",
+			".KambiBC-js-otc__betslip-details",
+			"-KambiBC-js-otc__betslip-details",
+			"id=\"KambiBC-betslip-details\"",
+			"#222",
+			"#KambiBC-betslip-container #KambiBC-betslip-details",
+			"#KambiBC-betslip-details",
+			"#ed202d",
+			".KambiBC-placebet-container",
+			"KambiBC-selected",
+			"#KambiBC-betslip-container",
+			".KambiBC-tab-button-content",
+			"KambiBC-tab-button-content",
+			".KambiBC-tab-button-content",
+			".KambiBC-tab-button\nKambiBC-tab-button",
+			".KambiBC-tab-button\n.KambiBC-tab-button",
+			"$retail-term-search-overlay-input-background-color",
+			".KambiBC-term-search-overlay__input",
+			"$retail-term-search-overlay-header-content-background"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$icon",
+			");",
+			"$navicon-background-color-dark",
+			"$navicon-background-color",
+			"$sport-icon-color",
+			"$navicon-color",
+			"$sport-icon-color",
+			"$navicon-background-color-dark",
+			"$playercast-label-empty-text-color",
+			"$playercast-player-btn-touch-background-color",
+			"$playercast-player-btn-hover-background-color",
+			"$playercast-player-btn-background-color",
+			"$playercast-team-header-text-color",
+			"$playercast-selector-touch-background-color",
+			"$playercast-selector-hover-background-color",
+			"$playercast-selector-active-hover-background-color",
+			"$playercast-selector-active-background-color",
+			"$playercast-selector-background-color",
+			"$playercast-selector-close-btn-color",
+			"$playercast-selector-arrow-color",
+			"$playercast-selector-active-header-color",
+			"$playercast-selector-header-color",
+			"$navicon-width-big",
+			"$navicon-height-big",
+			"$nav-overlay-title-now-color",
+			"$navicon-background-color-darker",
+			"$nav-overlay-max-width",
+			"$navicon-width",
+			"$navicon-height",
+			"$navicons-base-url"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "network.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2662,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								476,
+								476
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "load_data.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 809,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								799,
+								799
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1905,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								69
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 78,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								78,
+								78
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "cnn.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 587,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								586,
+								586
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/antbas/ws/recnum/main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1081,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								844,
+								844
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/antbas/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 502.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "cnn.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"kambi-main",
+				"src/js/kambi-main.js"
+			],
+			[
+				"settings",
+				"src/js/components/settings/SettingsView.jsx"
+			],
+			[
+				"variables",
+				"src/clients/common/css/variables.scss"
+			],
+			[
+				"main.scss",
+				"src/js/components/retail/styles/main.scss"
+			],
+			[
+				"betslipview",
+				"src/js/view/betslip/BetslipView.html"
+			],
+			[
+				"betslipheader",
+				"src/js/components/betslip-header/templates/BetslipHeader.hbs"
+			],
+			[
+				"betslip",
+				"src/js/components/betslip-header/templates/BetslipHeader.hbs"
+			],
+			[
+				"icons.",
+				"src/clients/common/css/icons.scss"
+			],
+			[
+				"kambi-wid",
+				"widgetapi/kambi-widget-api.js"
+			],
+			[
+				"formatutil",
+				"src/js/utils/FormatUtil.next.js"
+			],
+			[
+				"utilsfor",
+				"__tests__/utils/FormatUtil.spec.js"
+			],
+			[
+				"landingpagemodel",
+				"src/js/components/retail/landing-page/LandingPageModel.next.js"
+			],
+			[
+				"odds",
+				"src/js/constants/OddsConstants.next.js"
+			],
+			[
+				"oddsc",
+				"src/js/constants/OddsConstants.next.js"
+			],
+			[
+				"formatutils",
+				"src/js/utils/FormatUtil.next.js"
+			],
+			[
+				"oddsutil",
+				"src/js/utils/OddsUtil.next.js"
+			],
+			[
+				"utilfor",
+				"__tests__/utils/FormatUtil.spec.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 307.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
