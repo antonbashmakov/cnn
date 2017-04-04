@@ -14,20 +14,22 @@ class Network() :
 	'''
 
 	def __init__ (self, topology, costFunctionType = None) :
+
+
+
 		self.numOfLayers = len(topology)
 		self.topology = topology
 		self.biases = [np.random.randn(y, 1) for y in topology[1:]]
-		self.weights = [np.random.randn(y, y) for x, y in zip(topology[:-1], topology[1:])]
+		self.weights = [np.random.randn(y, x) for x, y in zip(topology[:-1], topology[1:])]
 
-
-	def sigmod (self, z) : 
+	def sigmoid (self, z) : 
 		'''
 			Sigmoid function gor our neuron
 		'''
 		return 1.0 / (1 + np.exp(-z)) 
 
-	def sigmoidPrime (z) : 
-		return sigmoid(z)( 1 - sigmoid(z))
+	def sigmoidPrime (self, z) : 
+		return self.sigmoid(z) * ( 1 - self.sigmoid(z))
 
 
 	def feedForward (self, a) :
@@ -61,14 +63,15 @@ class Network() :
 		zs = []
 
 		for b, w in zip(self.biases, self.weights) : 
-			z = np.dot(w, activations) - b
+
+			z = np.dot(w, activation) + b
 
 			zs.append(z)
-			activation = self.sigmod(z)
+			activation = self.sigmoid(z)
 			activations.append(activation)
 
 		#backwarding, we are going from the last layer to the first
-		delta = self.costDerivative(activations[-1], y) * sigmoidPrime(zs[-1]) #calculate direvative for the last layer
+		delta = self.costDerivative(activations[-1], y) * self.sigmoidPrime(zs[-1]) #calculate direvative for the last layer
 		
 		nablaB[-1] = delta 
 		nablaW[-1] = np.dot(delta, activations[-2].transpose())
@@ -84,6 +87,8 @@ class Network() :
 
 
 
+	def costDerivative(self, outputActivations, y) :
+		return (outputActivations - y)
 
 	def SGD (self, trainingData, epochs, miniBatchSize, eta, testData = None) : 
 		'''
